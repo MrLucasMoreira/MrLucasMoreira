@@ -1,44 +1,70 @@
-<h1 align="center">👋 Olá, eu sou o Lucas Moreira Ferreira</h1>
+<h1 align="center">👋 Olá, eu sou o Lucas Ferreira</h1>
 
 <p align="center">
-  <b>Analista de Suporte BPM | Consultor de Desenvolvimento na Senior</b><br>
-  <b>Fundador da Starts Technology</b> 🚀
+  <b>Consultor de Desenvolvimento na Senior Noroeste Paulista</b><br>
+  <b>Fundador & CEO da Starts Technology</b> 🚀
 </p>
 
 ---
 
 ### 💼 Sobre mim
-Sou desenvolvedor focado em soluções empresariais e automações inteligentes.  
-Atuo na **Senior Noroeste Paulista**, com experiência em **BPM, ICM e Linguagem Senior**, além de projetos em **Node.js, Kotlin e Python**.  
+Sou desenvolvedor apaixonado por **automações inteligentes** e soluções sob medida.  
+Atuo na **Senior Noroeste Paulista**, com foco em **BPM, Relatórios, SGI, Linguagem Senior (LSP), entre outras**, além de experiência sólida em **Node.js, Python, **.  
 
-Sou fundador da **Starts Technology**, empresa especializada em desenvolvimento web, consultoria Nuvemshop e criação de sistemas sob medida.
+Sou fundador da **Star Technology**, empresa especializada em **desenvolvimento web**, **consultoria Nuvemshop** e **criação de sistemas personalizados**.
 
 ---
 
 ### 🧠 Tecnologias & Stack
-💻 **Linguagens:** Kotlin · JavaScript · Python · SQL · C  
-⚙️ **Backend:** Node.js · Express · REST APIs · Firebase  
-🎨 **Frontend:** React · HTML · CSS · Tailwind · Bootstrap  
-🗄️ **Banco:** PostgreSQL · MySQL · SQLite  
-📱 **Mobile:** Kotlin (Android)  
-☁️ **Infra:** Heroku · Vercel · GitHub Actions  
+
+#### 💻 Linguagens
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+</p>
+
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</p>
+
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</p>
+
+#### ☁️ Infra & DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| **[StarCommerce](###)** | Sistema de gestão de vendas e controle de eventos | Electron, Bootstrap, JSON local, Node |
-| **[StarFlex](###)** | Sistema de gestão de vendas e controle de eventos voltado para celulares | PWA, Bootstrap, JSON local, Node |
-| **StarClinic (em desenvolvimento)** | Sistema de gestão para clínicas | Node.js, React, PostgreSQL |
-| **StarRCC (em desenvolvimento)** | Sistema de gestão de eventos e pessoas (Renovação Carismática Católica) | Node.js, React, PostgreSQL |
+| **[StarCommerce](#)** | Sistema de gestão de vendas e controle de eventos | Electron · Bootstrap · JSON · Node.js |
+| **[StarFlex](#)** | Versão mobile do StarCommerce, em formato PWA | PWA · Bootstrap · Node.js |
+| **StarClinic (em desenvolvimento)** | Sistema de gestão completo para clínicas | Node.js · Amgular · MySQL |
+| **StarRCC (em desenvolvimento)** | Sistema de gestão de eventos e pessoas da Renovação Carismática Católica | Node.js · Angular · MySQL |
 
 ---
 
 ### 🌍 Onde me encontrar
-
-<p align="left">
+<p align="center">
   <a href="mailto:lucas@startstechnology.com.br"><img src="https://img.shields.io/badge/Email-lucas@startstechnology.com.br-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/lucasmoreiraferreira"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Moreira%20Ferreira-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://startstechnology.com.br"><img src="https://img.shields.io/badge/Site-startstechnology.com.br-black?style=for-the-badge&logo=firefox"></a>
@@ -46,15 +72,15 @@ Sou fundador da **Starts Technology**, empresa especializada em desenvolvimento 
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LucasMoreiraFerreira&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMoreiraFerreira&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MrLucasMoreira&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrLucasMoreira&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  Feito com 💙 por <a href="https://startstechnology.com.br">Starts Technology</a>
+  Feito com 💙 por <a href="https://startstechnology.com.br">Starts Technology</a> • 2025
 </p>
