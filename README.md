@@ -2,14 +2,14 @@
 
 <p align="center">
   <b>Consultor de Desenvolvimento na Senior Noroeste Paulista</b><br>
-  <b>Fundador & CEO da Starts Technology</b> 🚀
+  <b>Fundador & CEO da Star Technology</b> 🚀
 </p>
 
 ---
 
 ### 💼 Sobre mim
 Sou desenvolvedor apaixonado por **automações inteligentes** e soluções sob medida.  
-Atuo na **Senior Noroeste Paulista**, com foco em **BPM, Relatórios, SGI, Linguagem Senior (LSP), entre outras**, além de experiência sólida em **Node.js, Python**.  
+Atuo na **Senior Noroeste Paulista**, com foco em **BPM, Relatórios, SGI, Linguagem Senior (LSP), entre outras**, além de experiência sólida em **Node.js**.  
 
 Sou fundador da **Star Technology**, empresa especializada em **desenvolvimento web**, **consultoria Nuvemshop** e **criação de sistemas personalizados**.
 
@@ -27,7 +27,6 @@ Sou fundador da **Star Technology**, empresa especializada em **desenvolvimento 
 #### ⚙️ Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </p>
@@ -63,7 +62,7 @@ Sou fundador da **Star Technology**, empresa especializada em **desenvolvimento 
 <p align="center">
   <a href="mailto:lucas@startstechnology.com.br"><img src="https://img.shields.io/badge/Email-startssolucaotech@gmail.comr-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/lucasmoreiraferreira"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Moreira%20Ferreira-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://startstechnology.com.br"><img src="https://img.shields.io/badge/Site-starwebti.com-black?style=for-the-badge&logo=firefox"></a>
+  <a href="https://starwebti.com/"><img src="https://img.shields.io/badge/Site-startstechnology-black?style=for-the-badge&logo=firefox"></a>
 </p>
 
 ---
