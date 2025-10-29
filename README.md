@@ -63,7 +63,7 @@ Sou fundador da **Star Technology**, empresa especializada em **desenvolvimento 
 <p align="center">
   <a href="mailto:lucas@startstechnology.com.br"><img src="https://img.shields.io/badge/Email-startssolucaotech@gmail.comr-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/lucasmoreiraferreira"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Moreira%20Ferreira-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://startstechnology.com.br"><img src="https://img.shields.io/badge/Site-[startstechnology.com.br](https://starwebti.com/)-black?style=for-the-badge&logo=firefox"></a>
+  <a href="https://startstechnology.com.br"><img src="https://img.shields.io/badge/Site-starwebti.com-black?style=for-the-badge&logo=firefox"></a>
 </p>
 
 ---
