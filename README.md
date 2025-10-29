@@ -9,7 +9,7 @@
 
 ### 💼 Sobre mim
 Sou desenvolvedor apaixonado por **automações inteligentes** e soluções sob medida.  
-Atuo na **Senior Noroeste Paulista**, com foco em **BPM, Relatórios, SGI, Linguagem Senior (LSP), entre outras**, além de experiência sólida em **Node.js, Python, **.  
+Atuo na **Senior Noroeste Paulista**, com foco em **BPM, Relatórios, SGI, Linguagem Senior (LSP), entre outras**, além de experiência sólida em **Node.js, Python**.  
 
 Sou fundador da **Star Technology**, empresa especializada em **desenvolvimento web**, **consultoria Nuvemshop** e **criação de sistemas personalizados**.
 
@@ -19,10 +19,8 @@ Sou fundador da **Star Technology**, empresa especializada em **desenvolvimento 
 
 #### 💻 Linguagens
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
 </p>
 
@@ -40,13 +38,11 @@ Sou fundador da **Star Technology**, empresa especializada em **desenvolvimento 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 </p>
 
 #### ☁️ Infra & DevOps
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
@@ -65,9 +61,9 @@ Sou fundador da **Star Technology**, empresa especializada em **desenvolvimento 
 
 ### 🌍 Onde me encontrar
 <p align="center">
-  <a href="mailto:lucas@startstechnology.com.br"><img src="https://img.shields.io/badge/Email-lucas@startstechnology.com.br-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:lucas@startstechnology.com.br"><img src="https://img.shields.io/badge/Email-startssolucaotech@gmail.comr-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/lucasmoreiraferreira"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Moreira%20Ferreira-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://startstechnology.com.br"><img src="https://img.shields.io/badge/Site-startstechnology.com.br-black?style=for-the-badge&logo=firefox"></a>
+  <a href="https://startstechnology.com.br"><img src="https://img.shields.io/badge/Site-[startstechnology.com.br](https://starwebti.com/)-black?style=for-the-badge&logo=firefox"></a>
 </p>
 
 ---
@@ -80,7 +76,3 @@ Sou fundador da **Star Technology**, empresa especializada em **desenvolvimento 
 </p>
 
 ---
-
-<p align="center">
-  Feito com 💙 por <a href="https://startstechnology.com.br">Starts Technology</a> • 2025
-</p>
