@@ -2,17 +2,15 @@
 
 <p align="center">
   <b>Consultor de Desenvolvimento na Senior Noroeste Paulista</b><br>
-  <b>Fundador & CEO da Starts Technology</b> 🚀
 </p>
 
 ---
 
 ### 💼 Sobre mim
-Sou desenvolvedor e consultor apaixonado por **automação de processos e soluções inteligentes**.  
-Atuo na **Senior Noroeste Paulista**, com foco em **BPM, ICM, Relatórios e Linguagem Senior (LSP)**.  
+Sou desenvolvedor apaixonado por **soluções inteligentes**.  
+Atuo na **Senior Noroeste Paulista**, com foco em **BPM, ECM, Relatórios e Linguagem Senior (LSP)**.  
 Tenho experiência sólida em **Node.js**, **integrações com APIs**, e criação de **sistemas personalizados**.  
 
-Também sou fundador da **Starts Technology**, empresa especializada em **desenvolvimento web**, **consultoria Nuvemshop** e **sistemas sob medida**.  
 Busco sempre unir **inovação, eficiência e experiência do usuário** em cada projeto que desenvolvo.
 
 ---
