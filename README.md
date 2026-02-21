@@ -6,7 +6,7 @@
 
 ---
 
- 💼 Sobre mim
+### 💼 Sobre mim
 Sou desenvolvedor apaixonado por **soluções inteligentes** e automação de processos.  
 Atuo na **Senior Noroeste Paulista**, com foco em **BPM, ECM, Relatórios e Linguagem Senior (LSP)**.  
 Tenho experiência sólida em **Node.js**, **integrações com APIs**, e criação de **sistemas personalizados**.  
