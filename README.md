@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Lucas Ferreira</h1>
 
 <p align="center">
-  <b>Consultor de Desenvolvimento na Senior Noroeste Paulista</b>
+  <b>Consultor de Desenvolvimento</b>
 </p>
 
 ---
