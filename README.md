@@ -71,9 +71,8 @@ Busco sempre unir **inovação, eficiência e experiência do usuário** em cada
 
 ### 🌍 Onde me encontrar
 <p align="center">
-  <a href="mailto:lucaslmf8@gmail.com"><img src="https://img.shields.io/badge/Email-lucas@startstechnology.com.br-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:lucaslmf8@gmail.com"><img src="https://img.shields.io/badge/Email-lucaslmf8@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/lucas-ferreira-652653254/"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Moreira%20Ferreira-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://starwebti.com/"><img src="https://img.shields.io/badge/Site-startstechnology-black?style=for-the-badge&logo=firefox"></a>
 </p>
 
 ---
