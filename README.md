@@ -35,7 +35,7 @@ Website institucional para escritório jurídico com design corporativo e respon
 
 🔗 https://mrlucasmoreira.github.io/VANGUARD-ADVOGADOS/
 
-**Stack:** HTML • CSS • Bootstrap
+**Stack:** HTML • CSS • JavaScript
 
 ---
 
