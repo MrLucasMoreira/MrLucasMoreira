@@ -17,7 +17,7 @@ Landing page moderna para clínica médica com foco em conversão e experiência
 
 🔗 https://mrlucasmoreira.github.io/CLINICA-OLIVEIRA/
 
-**Stack:** HTML • CSS • JavaScript • Bootstrap
+**Stack:** HTML • CSS • JavaScript
 
 ---
 
